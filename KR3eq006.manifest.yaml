@@ -1,0 +1,880 @@
+canonical_identifier: bkk:krp/KR3eq006/v1
+canonical_location: https://kanripo.org/bkk/KR3eq006/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 葉選醫衡
+  identifiers:
+    krp: KR3eq006
+  tags:
+    kr-categories: KR3eq
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eq006.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3eq006_000.yaml, hash: 'sha256:03b352aadda71e3101c91b32da27f0ad5b54e528dd5f3575691427d0ad0f5eb2'}
+  - {seq: 1, filename: KR3eq006_001.yaml, hash: 'sha256:4ce03fae37a4ff078da1f12796423b2e5b1ee625895394fb0ed9dd336ba32343'}
+  - {seq: 3, filename: KR3eq006_003.yaml, hash: 'sha256:19c5705c4d5226d84f1a3aaaac597ff71a540bebf619de1655d38d2d96cc3cc8'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3eq006_000.markers.yaml, hash: 'sha256:25d2376f81fff9ea4c82be1a49c35356c7e14b7501504cd2c8b65d60f4a9fa3c'}
+  - {seq: 1, role: markers, filename: assets/KR3eq006_001.markers.yaml, hash: 'sha256:14fbc8c27acd78ed1f4e163be8e97ff168e6913b424f98225c942ef9b021becf'}
+  - {seq: 3, role: markers, filename: assets/KR3eq006_003.markers.yaml, hash: 'sha256:6fd4029f5305e1f6c2e149d66334c85959b0e597ef3515efb520914dfcaa7bfd'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3eq006_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 544
+  label: 曹序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq006_jc_000-d3.h1s1
+    span:
+    - front
+    - 544
+    - 1365
+  label: 柳序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq006_jc_000-d4.h1s1
+    span:
+    - front
+    - 1365
+    - 1915
+  label: 繆序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq006_jc_000-d5.h1s1
+    span:
+    - front
+    - 1915
+    - 2399
+  label: 金序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq006_jc_000-d6.h1s1
+    span:
+    - front
+    - 2399
+    - 2849
+  label: 顧序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq006_jc_000-d7.h1s1
+    span:
+    - front
+    - 2849
+    - 3126
+  label: 自序
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3eq006_jc_001-d8.h1s1
+    span:
+    - body
+    - 0
+    - 24710
+  label: 卷上
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3eq006_jc_001-d8d2
+    span:
+    - body
+    - 2
+    - 690
+  label: 養身論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq006_jc_001-d8d3
+    span:
+    - body
+    - 690
+    - 1479
+  label: 運氣說
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq006_jc_001-d8d4
+    span:
+    - body
+    - 1479
+    - 2057
+  label: 奇經八脈大旨
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq006_jc_001-d8d5
+    span:
+    - body
+    - 2057
+    - 2580
+  label: 六脈綱領
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq006_jc_001-d8d6
+    span:
+    - body
+    - 2580
+    - 3132
+  label: 血營氣衛論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq006_jc_001-d8d7
+    span:
+    - body
+    - 3132
+    - 3634
+  label: 君臣佐使逆從反正說
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq006_jc_001-d8d8
+    span:
+    - body
+    - 3634
+    - 4233
+  label: 吐汗下該盡治法論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq006_jc_001-d8d9
+    span:
+    - body
+    - 4233
+    - 4660
+  label: 補瀉當分緩急有無說
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq006_jc_001-d8d10
+    span:
+    - body
+    - 4660
+    - 4875
+  label: 推內經不宜主旺氣說
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq006_jc_001-d8d11
+    span:
+    - body
+    - 4875
+    - 5211
+  label: 陽有餘陰不足論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq006_jc_001-d8d12
+    span:
+    - body
+    - 5211
+    - 6077
+  label: 病有真假辨
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq006_jc_001-d8d13
+    span:
+    - body
+    - 6077
+    - 7261
+  label: 虛損宜分陰陽施治論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq006_jc_001-d8d14
+    span:
+    - body
+    - 7261
+    - 8168
+  label: 因病似虛因虛致病論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq006_jc_001-d8d15
+    span:
+    - body
+    - 8168
+    - 9115
+  label: 中風五派異同論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq006_jc_001-d8d16
+    span:
+    - body
+    - 9115
+    - 9761
+  label: 中風證治論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq006_jc_001-d8d17
+    span:
+    - body
+    - 9761
+    - 10077
+  label: 酒人多中風說
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq006_jc_001-d8d18
+    span:
+    - body
+    - 10077
+    - 10653
+  label: 痹證析微論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq006_jc_001-d8d19
+    span:
+    - body
+    - 10653
+    - 11182
+  label: 痿論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq006_jc_001-d8d20
+    span:
+    - body
+    - 11182
+    - 11729
+  label: 風痹痿論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq006_jc_001-d8d21
+    span:
+    - body
+    - 11729
+    - 12326
+  label: 厥論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq006_jc_001-d8d22
+    span:
+    - body
+    - 12326
+    - 12601
+  label: 風厥辨
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq006_jc_001-d8d23
+    span:
+    - body
+    - 12601
+    - 13455
+  label: 傷寒約法
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq006_jc_001-d8d24
+    span:
+    - body
+    - 13455
+    - 14947
+  label: 論六經無再傳
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq006_jc_001-d8d25
+    span:
+    - body
+    - 14947
+    - 15717
+  label: 論寒證無傳經
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq006_jc_001-d8d26
+    span:
+    - body
+    - 15717
+    - 15991
+  label: 訛稱陰證辨
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq006_jc_001-d8d27
+    span:
+    - body
+    - 15991
+    - 17022
+  label: 釋六經七日病愈
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq006_jc_001-d8d28
+    span:
+    - body
+    - 17022
+    - 17968
+  label: 溫病熱病解
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq006_jc_001-d8d29
+    span:
+    - body
+    - 17968
+    - 18724
+  label: 辨正風溫溫瘧溫毒溫疫
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq006_jc_001-d8d30
+    span:
+    - body
+    - 18724
+    - 19704
+  label: 溫疫論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq006_jc_001-d8d31
+    span:
+    - body
+    - 19704
+    - 20264
+  label: 中暑中熱論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq006_jc_001-d8d32
+    span:
+    - body
+    - 20264
+    - 20443
+  label: 附傷暑脈證論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq006_jc_001-d8d33
+    span:
+    - body
+    - 20443
+    - 20917
+  label: 濕論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq006_jc_001-d8d34
+    span:
+    - body
+    - 20917
+    - 21618
+  label: 霍亂證治論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq006_jc_001-d8d35
+    span:
+    - body
+    - 21618
+    - 22110
+  label: 瘧疾證治論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq006_jc_001-d8d36
+    span:
+    - body
+    - 22110
+    - 23827
+  label: 痢疾證治論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq006_jc_001-d8d37
+    span:
+    - body
+    - 23827
+    - 24428
+  label: 泄瀉九法論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq006_jc_001-d8d38
+    span:
+    - body
+    - 24428
+    - 24710
+  label: 腳氣論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq006_jc_003-d9.h1s1
+    span:
+    - body
+    - 0
+    - 25577
+  label: 卷下
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3eq006_jc_003-d9d2
+    span:
+    - body
+    - 2
+    - 742
+  label: 燥論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq006_jc_003-d9d3
+    span:
+    - body
+    - 742
+    - 1384
+  label: 火論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq006_jc_003-d9d4
+    span:
+    - body
+    - 1384
+    - 1848
+  label: 痰論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq006_jc_003-d9d5
+    span:
+    - body
+    - 1848
+    - 2390
+  label: 咳嗽要論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq006_jc_003-d9d6
+    span:
+    - body
+    - 2390
+    - 3115
+  label: 虛勞論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq006_jc_003-d9d7
+    span:
+    - body
+    - 3115
+    - 3572
+  label: 吐血三要論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq006_jc_003-d9d8
+    span:
+    - body
+    - 3572
+    - 4640
+  label: 諸血病論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq006_jc_003-d9d9
+    span:
+    - body
+    - 4640
+    - 6342
+  label: 內傷余議
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq006_jc_003-d9d10
+    span:
+    - body
+    - 6342
+    - 7257
+  label: 五郁六郁解
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq006_jc_003-d9d11
+    span:
+    - body
+    - 7257
+    - 7860
+  label: 諸氣不當作寒治論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq006_jc_003-d9d12
+    span:
+    - body
+    - 7860
+    - 9320
+  label: 腫脹引經別證辨
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq006_jc_003-d9d13
+    span:
+    - body
+    - 9320
+    - 9776
+  label: 腹脹禁用攻瀉論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq006_jc_003-d9d14
+    span:
+    - body
+    - 9776
+    - 10059
+  label: 喘脹標本論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq006_jc_003-d9d15
+    span:
+    - body
+    - 10059
+    - 10736
+  label: 喘哮短氣氣逆息賁辨
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq006_jc_003-d9d16
+    span:
+    - body
+    - 10736
+    - 11760
+  label: 噦逆咳逆乾嘔嘔吐五證辨
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq006_jc_003-d9d17
+    span:
+    - body
+    - 11760
+    - 12201
+  label: 噎膈反胃本於陰枯陽結論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq006_jc_003-d9d18
+    span:
+    - body
+    - 12201
+    - 13008
+  label: 三消證治論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq006_jc_003-d9d19
+    span:
+    - body
+    - 13008
+    - 13728
+  label: 三消從火斷論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq006_jc_003-d9d20
+    span:
+    - body
+    - 13728
+    - 14049
+  label: 消渴亦有屬寒辨
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq006_jc_003-d9d21
+    span:
+    - body
+    - 14049
+    - 14715
+  label: 首疢論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq006_jc_003-d9d22
+    span:
+    - body
+    - 14715
+    - 15336
+  label: 心胸胃脘脅腹諸痛辨
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq006_jc_003-d9d23
+    span:
+    - body
+    - 15336
+    - 15670
+  label: 心痛解
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq006_jc_003-d9d24
+    span:
+    - body
+    - 15670
+    - 16123
+  label: 痛無補法辨
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq006_jc_003-d9d25
+    span:
+    - body
+    - 16123
+    - 16408
+  label: 痃癖等七種釋名論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq006_jc_003-d9d26
+    span:
+    - body
+    - 16408
+    - 16843
+  label: 治積按初中末法論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq006_jc_003-d9d27
+    span:
+    - body
+    - 16843
+    - 17176
+  label: 蟲積論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq006_jc_003-d9d28
+    span:
+    - body
+    - 17176
+    - 17652
+  label: 黃疸證毋拘五證宜別三焦論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq006_jc_003-d9d29
+    span:
+    - body
+    - 17652
+    - 17852
+  label: 陰黃說
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq006_jc_003-d9d30
+    span:
+    - body
+    - 17852
+    - 18486
+  label: 七疝解
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq006_jc_003-d9d31
+    span:
+    - body
+    - 18486
+    - 19309
+  label: 淋閉證治論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq006_jc_003-d9d32
+    span:
+    - body
+    - 19309
+    - 19767
+  label: 精濁論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq006_jc_003-d9d33
+    span:
+    - body
+    - 19767
+    - 20022
+  label: 精滑便濁分別辨
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq006_jc_003-d9d34
+    span:
+    - body
+    - 20022
+    - 20414
+  label: 遺精白濁皆由心腎兩虛辨
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq006_jc_003-d9d35
+    span:
+    - body
+    - 20414
+    - 20912
+  label: 老年人耳聾與少年人異治法論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq006_jc_003-d9d36
+    span:
+    - body
+    - 20912
+    - 21425
+  label: 自汗盜汗論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq006_jc_003-d9d37
+    span:
+    - body
+    - 21425
+    - 22195
+  label: 癲癇狂辨
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq006_jc_003-d9d38
+    span:
+    - body
+    - 22195
+    - 22984
+  label: 驚悸恐辨
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq006_jc_003-d9d39
+    span:
+    - body
+    - 22984
+    - 23705
+  label: 驚風論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq006_jc_003-d9d40
+    span:
+    - body
+    - 23705
+    - 24634
+  label: 七情考
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq006_jc_003-d9d41
+    span:
+    - body
+    - 24634
+    - 25577
+  label: 寢食說
+  type: section
+  level: 2
+hash: sha256:24d7257ba6c71255f986ee1504b200441ebd1e2c12911d1e50fb74a302ea5687
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
