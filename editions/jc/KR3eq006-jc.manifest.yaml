@@ -21,7 +21,7 @@ assets:
   - {seq: 3, filename: KR3eq006_003-jc.yaml, hash: 'sha256:625d89281722a1caeee07cead82392fc75596c8bb80249b1879e0dc84be6fb7b'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR3eq006_000-jc.markers.yaml, hash: 'sha256:2126a7d87351575f742121cb22aea77340089cc836d19d3425afc61385033bd3'}
-  - {seq: 1, role: markers, filename: assets/KR3eq006_001-jc.markers.yaml, hash: 'sha256:5cc4d9d213b02158c4f7c1804a761e26925ba74d1f5e2b952ea428329e00ad28'}
+  - {seq: 1, role: markers, filename: assets/KR3eq006_001-jc.markers.yaml, hash: 'sha256:9061729c58485c751f5d7a8c547e65732e1798757549f5877e9f43ee5a32e55b'}
   - {seq: 3, role: markers, filename: assets/KR3eq006_003-jc.markers.yaml, hash: 'sha256:04d35c9c559a9357fabd35340f65ed82fe9aaab93c617537f8327b504f212489'}
 table_of_contents:
 - ref:
@@ -874,4 +874,4 @@ table_of_contents:
   label: 寢食說
   type: section
   level: 2
-hash: sha256:736d721affd5cc0a747aa9df97a9f5fa44eabddcba36efa5c04b3fbfe09f00ff
+hash: sha256:f9cfcc0c8e39421888f6db66601559f234c1ab95075fd29696879d9f40ddde3e
