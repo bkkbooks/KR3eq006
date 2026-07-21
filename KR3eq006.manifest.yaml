@@ -16,11 +16,11 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3eq006_000.yaml, hash: 'sha256:99ab170000ef494c7e9cb2ec90cd5cda29e83e8380ac45ccfb651136ddf392b9'}
+  - {seq: 0, filename: KR3eq006_000.yaml, hash: 'sha256:4417f8764c0c3561f284bed2386f5d5627159c5020c48febb41017a1024525c1'}
   - {seq: 1, filename: KR3eq006_001.yaml, hash: 'sha256:023ac62e3748dde1158cb2e7c4c3356018e8124a0e5e27d702d3c731b93469a8'}
   - {seq: 3, filename: KR3eq006_003.yaml, hash: 'sha256:33295b3747faea0671a568456cfb0d39417b44e9d922b94cf73836391a14f684'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eq006_000.markers.yaml, hash: 'sha256:91608334a2708b01c4af9be154a41aebfbd91301427eb966280ae6edabc39636'}
+  - {seq: 0, role: markers, filename: assets/KR3eq006_000.markers.yaml, hash: 'sha256:7bd477786f07e3c633e64210ae53001f33ab3cb7041a992516cef597ea755adf'}
   - {seq: 1, role: markers, filename: assets/KR3eq006_001.markers.yaml, hash: 'sha256:0b44192dc1c8b00c62f46d99263da6bb0bc88a3870090faeff17733a141e5926'}
   - {seq: 3, role: markers, filename: assets/KR3eq006_003.markers.yaml, hash: 'sha256:8117270f6b5d03047ebfcf541e716c11cdbda42f83240c1785ad8d04a7e544eb'}
 table_of_contents:
@@ -28,7 +28,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3eq006_jc_000-d2.h1s1
     span:
-    - front
+    - body
     - 0
     - 544
   label: 曹序
@@ -38,7 +38,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3eq006_jc_000-d3.h1s1
     span:
-    - front
+    - body
     - 544
     - 1365
   label: 柳序
@@ -48,7 +48,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3eq006_jc_000-d4.h1s1
     span:
-    - front
+    - body
     - 1365
     - 1915
   label: 繆序
@@ -58,7 +58,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3eq006_jc_000-d5.h1s1
     span:
-    - front
+    - body
     - 1915
     - 2399
   label: 金序
@@ -68,7 +68,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3eq006_jc_000-d6.h1s1
     span:
-    - front
+    - body
     - 2399
     - 2849
   label: 顧序
@@ -78,7 +78,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3eq006_jc_000-d7.h1s1
     span:
-    - front
+    - body
     - 2849
     - 3126
   label: 自序
@@ -874,7 +874,7 @@ table_of_contents:
   label: 寢食說
   type: section
   level: 2
-hash: sha256:cf0bd36d0037dd21e9453ab85ddfc89551c236c73ada5793d971a830de9eeb7d
+hash: sha256:776da4b1294f7031c2f1ae3f4f003a16d636c185b6598ba2efe7e4450ff80189
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

@@ -16,11 +16,11 @@ metadata:
     short: jc
 assets:
   parts:
-  - {seq: 0, filename: KR3eq006_000-jc.yaml, hash: 'sha256:f35757c1659f240a534749f5203ab13e0fd7d8f8cc792a3f0cd3b19c77878ed9'}
+  - {seq: 0, filename: KR3eq006_000-jc.yaml, hash: 'sha256:db9db5b9c4d3dd4aab8ce96c35d8029fdf1b5316e1fa04bcb83ba184cc8f1088'}
   - {seq: 1, filename: KR3eq006_001-jc.yaml, hash: 'sha256:626a246e120a2a35ce3e2477f8d12dac85239af21cb486bc6d24e2b9808af121'}
   - {seq: 3, filename: KR3eq006_003-jc.yaml, hash: 'sha256:625d89281722a1caeee07cead82392fc75596c8bb80249b1879e0dc84be6fb7b'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eq006_000-jc.markers.yaml, hash: 'sha256:2126a7d87351575f742121cb22aea77340089cc836d19d3425afc61385033bd3'}
+  - {seq: 0, role: markers, filename: assets/KR3eq006_000-jc.markers.yaml, hash: 'sha256:19aaf1683ef9fd3b1647c7f996513f991dd4e2f60a634e8442afc7b93ea7df01'}
   - {seq: 1, role: markers, filename: assets/KR3eq006_001-jc.markers.yaml, hash: 'sha256:9061729c58485c751f5d7a8c547e65732e1798757549f5877e9f43ee5a32e55b'}
   - {seq: 3, role: markers, filename: assets/KR3eq006_003-jc.markers.yaml, hash: 'sha256:04d35c9c559a9357fabd35340f65ed82fe9aaab93c617537f8327b504f212489'}
 table_of_contents:
@@ -28,7 +28,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3eq006_jc_000-d2.h1s1
     span:
-    - front
+    - body
     - 0
     - 544
   label: 曹序
@@ -38,7 +38,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3eq006_jc_000-d3.h1s1
     span:
-    - front
+    - body
     - 544
     - 1365
   label: 柳序
@@ -48,7 +48,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3eq006_jc_000-d4.h1s1
     span:
-    - front
+    - body
     - 1365
     - 1915
   label: 繆序
@@ -58,7 +58,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3eq006_jc_000-d5.h1s1
     span:
-    - front
+    - body
     - 1915
     - 2399
   label: 金序
@@ -68,7 +68,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3eq006_jc_000-d6.h1s1
     span:
-    - front
+    - body
     - 2399
     - 2849
   label: 顧序
@@ -78,7 +78,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3eq006_jc_000-d7.h1s1
     span:
-    - front
+    - body
     - 2849
     - 3126
   label: 自序
@@ -874,4 +874,4 @@ table_of_contents:
   label: 寢食說
   type: section
   level: 2
-hash: sha256:f9cfcc0c8e39421888f6db66601559f234c1ab95075fd29696879d9f40ddde3e
+hash: sha256:7145ab380e8d1bcee756a5e5c8cbfc431f50aea17ca2ad7b503862fbac59ec83
